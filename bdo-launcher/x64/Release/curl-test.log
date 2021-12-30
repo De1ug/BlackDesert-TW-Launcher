@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(455,5): error MSB8070: 找不到 MSVC 工具組版本 '14.26.28801': 資料夾 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.26.28801\' 不存在。請確定已經安裝 MSVC 工具組版本 '14.26.28801'，或選擇其他工具組版本。
